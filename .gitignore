@@ -1,0 +1,19 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# .env files with secrets
+.env
+
+# Virtual environment folders (if using)
+venv/
+
+# Data output
+*.csv
+*.log
+
+# Docker volumes
+init_db/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
